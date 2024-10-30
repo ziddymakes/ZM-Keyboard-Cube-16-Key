@@ -3,7 +3,7 @@
 A 16 key keyboard Cube with 1 Mainboard and 4 Sisterboards (4 Keys Each) in a 3D Printed Base.
 
 <p align="center">
-  <img src="Media/DSC_2078-cube-keyboard-1mb.jpg" alt="ZM Keyboard Cube 16 Key" style="max-width: 600px;">
+  <img src="Media/DSC_2078-cube-keyboard-1mb.jpg" alt="ZM Keyboard Cube 16 Key" style="width: 700px;">
 </p>
 
 ## Mainboard
